@@ -1,17 +1,18 @@
-Repository for my solution to the Kaggle bike sharing demand prediction challenge
-==================================================================================
+-----------------------------------------------------------------
+A solution to the Kaggle bike sharing demand prediction challenge
+-----------------------------------------------------------------
 
 Goals: 
 
-i.   Clean, normalize, and describe data
-ii.   Analysis by an array of ML and Statistical Models *(TBD)*
-iii.   Validation
+1. Clean, normalize, and describe data
+2. Analyze using an array of ML and Statistical Models *(TBD)*
+3. Validation
 
 Contents:
 
-i.   data
-ii.   code
-iii.   results & figures
+1. data
+2. code
+3. results & figures
 
 ------------------------------------------------------------
 [From Kaggle:](https://www.kaggle.com/c/bike-sharing-demand)
