@@ -7,7 +7,7 @@ A (***partial***) solution to the Kaggle bike sharing demand prediction challeng
 Goals: 
 
 1. Clean, normalize, and describe data
-2. Analyze using an array of ML and Statistical Models *(INPROGRESS)*
+2. Analyze using an array of ML and Statistical Models *(IN PROGRESS)*
 3. Validation
 
 Contents:
